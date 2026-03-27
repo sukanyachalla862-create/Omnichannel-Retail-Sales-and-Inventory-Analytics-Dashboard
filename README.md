@@ -1,29 +1,108 @@
-Retail Sales Analysis Dashboard
+# Project Report
 
-@ Project Overview
-This project analyzes retail sales data to extract meaningful insights and build an interactive dashboard.
+## Week 1: Data Cleaning & Preparation
 
-@ 🛠 Tools Used
-- Python (Pandas)
-- SQL
-- Power BI
+### Tasks:
+- Loaded dataset using Pandas
+- Checked null values
+- Removed duplicates
+- Verified data types
 
-@ Dataset
-Sample Superstore dataset
+### Result:
+- No missing values
+- Data cleaned successfully
 
-@ Key Insights
-- West region has highest sales
-- Top products contribute major revenue
-- Sales trends vary over time
-- Category-wise performance differs
+---
 
- @ Recommendations
-- Focus on top-performing regions
-- Improve low-profit products
-- Use seasonal trends for planning
+## Week 2: SQL Analysis
 
-@bDashboard Preview
-(Add your Power BI screenshots here)
+### Tasks:
+- Imported data into MySQL
+- Used GROUP BY, ORDER BY
+- Calculated Total Sales
 
-## 🚀 Conclusion
-This project demonstrates end-to-end data analysis from data cleaning to dashboard creation.
+### Result:
+- Identified top products
+- Region-wise sales analyzed
+
+## week 3 : Data visualization  (power bi)
+
+### Tasks:
+  - Imported data set into power bi
+  - created visualization (charts)
+  - Built interactive dashboard
+  - Applied filters and slicers
+
+## Visuals created:
+  - clustered bar charts (sales by region )
+  - Bar chart (profit by category)
+  - Line chart (sales over time)
+  - Top 10 products (using filters)
+
+  - ## Week 4: Insight Generation & Final Report
+
+### Tasks:
+- Analyzed Power BI dashboard
+- Identified key trends and patterns
+- Generated business insights
+- Wrote recommendations
+- Captured dashboard screenshots
+- Completed project documentation
+
+---
+
+### Key Insights:
+
+- Technology category generated highest sales
+- Sales show a consistent trend over time
+- Certain regions contribute more revenue
+- Top products contribute significantly to total sales
+
+---
+
+### Business Recommendations:
+
+- Focus more on high-performing categories like Technology
+- Improve sales strategies in low-performing regions
+- Promote top-selling products for better revenue
+- Optimize inventory planning based on sales trends
+
+---
+
+### Final Output:
+
+- Interactive Power BI Dashboard
+- SQL analysis results
+- Cleaned dataset
+- GitHub project documentation
+
+    ### Result:
+    -Interactive dashboard created successfully
+    -Sales trends visualized clearly
+    -Region-wise and category-wise performance identified
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
